@@ -5,7 +5,7 @@ Project ini merupakan aplikasi kalkulator sederhana berbasis HTML, CSS, dan Java
 yang dapat melakukan operasi perhitungan dasar seperti penjumlahan, pengurangan, perkalian, pembagian serta Trigonometri.
 
 Kalkulator kami juga menggunakan fitur tambahan seperti :
-- theme mode
+- Theme mode
 - History
 
 Tujuan :
