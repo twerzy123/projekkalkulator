@@ -20,14 +20,14 @@ Bahasa yang Digunakan :
 - JavaScript
 
 Struktur File : 
-- projek_kalkulator_v2.html + javascript
-- style_kalkulator.css
+- kalkulator_v2.html + javascript
+- style_v2.css
 
 Penjelasan File : 
 
-- projek_kalkulator_v2.html
+- kalkulator_v2.html
 Berisi kerangka utama untuk tampilan yang ada di web kalkulator. Seperti Screen untuk layar, button angka, dan button simbol-simbol aritmatika untuk perhitungan serta Berisi logika perhitungan dan interaksi tombol. Berisi setiap fungsi yang akan digunakan di kalkulator.
-- style_kalkulator.css
+- style_v2.css
 Digunakan untuk mengatur tampilan dan tata letak halaman. Mengatur Warna, posisi, dan beberap hal terkait UI kalkulator.
 
 Cara Menjalankan
