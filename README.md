@@ -47,6 +47,7 @@ Klik tombol angka menggunakan keyboard atau touch pad yang ingin di hitung
 Pilih operator (+, −, ×, ÷)
 Tekan tombol enter di keyboard untuk mendapatkan hasil perhitungan
 Klik tombol keyboard (t) untuk mengubah tema menjadi terang ataupun gelap.
+Klik tombol keyboard (h) untuk menampilkan history penjumlahan.
 klik tombol keyboard (c) untuk menghapus angka yang telah dimasukkan serta untuk menghapus hasilnya.
 klik tombol keyboard panah kiri atau kanan untuk pindah slide aritmatika biasa dan aritmatika lanjutan.
 Klik tombol 🌙 untuk mengubah tema menjadi gelap dan klik tombol ☀️ untuk mengubah tema menjadi terang
